@@ -1,2 +1,2 @@
 # MOVED
-SEE: https://software.haxlab.org
+SEE: http://software.haxlab.org
